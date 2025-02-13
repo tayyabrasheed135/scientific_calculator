@@ -28,7 +28,7 @@ scientific-calculator/
 ```
 
 ## Demo
-[![Scientific Calculator Demo](./R&D%20progress%2014-feb-2025.mp4)](./R&D%20progress%2014-feb-2025.mp4)
+[![Scientific Calculator Demo](https://github.com/tayyabrasheed135/scientific_calculator/blob/main/R%26D%20progress%2014-feb-2025.mp4)](<video controls src="https://github.com/tayyabrasheed135/scientific_calculator/blob/main/R%26D%20progress%2014-feb-2025.mp4" title="./R&D%20progress%2014-feb-2025.mp4"></video>)
 
 ## Installation
 
