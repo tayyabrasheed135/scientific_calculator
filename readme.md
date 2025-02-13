@@ -17,18 +17,18 @@ A Python-based scientific calculator that implements various mathematical operat
 ```
 scientific-calculator/
 ├── src/
-│   ├── __init__.py
-│   ├── calculator.py
-│   ├── helper.py
-│   └── main.py
-├── tests/
-│   ├── __init__.py
-│   └── test_calculator.py
+├── __init__.py
+├── calculator.py
+├── helper.py
+├── main.py
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
+
+## Demo
+[![Scientific Calculator Demo](./R&D%20progress%2014-feb-2025.mp4)](./R&D%20progress%2014-feb-2025.mp4)
 
 ## Installation
 
@@ -81,9 +81,6 @@ pytest tests/
 5. Push to the branch (`git push origin feature/improvement`)
 6. Create a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
